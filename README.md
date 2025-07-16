@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aerojosue / I'm an aeronautical Engineer, that wants to be a Dev.
+- 👋 Hi, I’m @aerojosue / I'm an aeronautical Engineer, trying to be a dev
 - 👀 I’m interested in Backend codding.
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m always learning Java, PHP, Python
 - 💞️ I’m looking to collaborate on any project on the Backend area.
 - 📫 You can reach me by my e-mail: aero.josue@gmail.com
 
